@@ -1,0 +1,4 @@
+Notas sobre Windows NT 4.0
+
+Necesita al menos 128MB para arrancar
+No tiene controladores para dispositivos USB
