@@ -13,3 +13,5 @@
 * Diagramas de bloques
 
 * Dibujos
+
+![USB-cable-wiring](/Diagramas/USB-cable-wiring.png)
