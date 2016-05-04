@@ -14,4 +14,6 @@
 
 * Dibujos
 
-![USB-cable-wiring](/Diagramas/USB-cable-wiring.png)
+---
+![USB-cable-wiring.png](/Diagramas/USB-cable-wiring.png)
+---
